@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## About me
 PhD Student @ CUNY Grad Center | NYU '23 | Hunter College '20
 
+Former Bioinformatics Analyst at ![mskilab](https://www.mskilab.org/) ![mskilab-org](https://github.com/mskilab-org) at NYU Langone Health.
+
 I am passionate about **Bioinformatics** and **Genomics**, with a strong interest in using programming to simplify and enhance research workflows. 
 I have some experience with **Machine Learning (ML)** and **Large Language Models (LLMs)** and am eager to deepen my knowledge in these areas. 
 My long-term goal is to integrate genomics and AI-driven predictive modeling in impactful research.
