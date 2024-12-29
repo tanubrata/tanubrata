@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-PhD Student @ CUNY Grad Center | NYU '23 | Hunter College '21
-I am passionate about Bioinformatics and Genomics, with a strong interest in using programming to simplify and enhance research workflows. 
-I have some experience with Machine Learning (ML) and Large Language Models (LLMs) and am eager to deepen my knowledge in these areas. 
+PhD Student @ CUNY Grad Center | NYU '23 | Hunter College '20
+
+I am passionate about **Bioinformatics** and **Genomics**, with a strong interest in using programming to simplify and enhance research workflows. 
+I have some experience with **Machine Learning (ML)** and **Large Language Models (LLMs)** and am eager to deepen my knowledge in these areas. 
 My long-term goal is to integrate genomics and AI-driven predictive modeling in impactful research.
 
 
@@ -50,12 +51,24 @@ My long-term goal is to integrate genomics and AI-driven predictive modeling in 
 ![Bowtie](https://img.shields.io/badge/-Bowtie-7F5AB6)
 ![HISAT2](https://img.shields.io/badge/-HISAT2-0052CC)
 ![STAR](https://img.shields.io/badge/-STAR-2C5EAD)
+![Salmon](https://img.shields.io/badge/-Salmon-8BC34A)
+![Kallisto](https://img.shields.io/badge/-Kallisto-03A9F4)
 ![GATK](https://img.shields.io/badge/-GATK-007A33)
 ![BWA](https://img.shields.io/badge/-BWA-6F42C1)
 ![Samtools](https://img.shields.io/badge/-Samtools-7952B3)
+![Bcftools](https://img.shields.io/badge/-Bcftools-6A1B9A)
 ![Picard](https://img.shields.io/badge/-Picard-3C78D8)
 ![DESeq2](https://img.shields.io/badge/-DESeq2-94BEE5)
 ![EdgeR](https://img.shields.io/badge/-EdgeR-7E57C2)
+![MACS2](https://img.shields.io/badge/-MACS2-008080)
+![HOMER](https://img.shields.io/badge/-HOMER-3C8DBC)
+![JaBbA](https://img.shields.io/badge/-JaBbA-6A1B9A)
+![SvABA](https://img.shields.io/badge/-SvABA-FF7043)
+![GRIDSS](https://img.shields.io/badge/-GRIDSS-795548)
+![DAVID](https://img.shields.io/badge/-DAVID-4CAF50)
+![GSEA](https://img.shields.io/badge/-GSEA-7E57C2)
+![ClusterProfiler](https://img.shields.io/badge/-ClusterProfiler-5D4037)
+![Reactome](https://img.shields.io/badge/-Reactome-4CAF50)
 
 ### 👀 Version Control & Workflow Management
 ![Nextflow](https://img.shields.io/badge/-Nextflow-0064A5)
