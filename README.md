@@ -1,5 +1,6 @@
-## Hey there 👋
-
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey there! My name is Tanubrata.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanubrata-dey/)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/TanubrataDey)
 <!--
 **tanubrata/tanubrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,14 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
-PhD Student @ CUNY Grad Center | NYU '23 | Hunter College '20
+**PhD Student @ CUNY Grad Center | NYU '23 | Hunter College '20**
 
-Former Bioinformatics Analyst at ![mskilab](https://www.mskilab.org/) ![mskilab-org](https://github.com/mskilab-org) at NYU Langone Health.
+💼 Former Bioinformatics Analyst at ![mskilab](https://www.mskilab.org/) ![mskilab-org](https://github.com/mskilab-org) at NYU Langone Health.
 
-I am passionate about **Bioinformatics** and **Genomics**, with a strong interest in using programming to simplify and enhance research workflows. 
-I have some experience with **Machine Learning (ML)** and **Large Language Models (LLMs)** and am eager to deepen my knowledge in these areas. 
-My long-term goal is to integrate genomics and AI-driven predictive modeling in impactful research.
+🧬 I am passionate about **Bioinformatics** and **Genomics**, with a strong interest in using programming to simplify and enhance research workflows. 
 
+🤖 I have some experience with **Machine Learning (ML)** and **Large Language Models (LLMs)** and am eager to deepen my knowledge in these areas. 
+
+🎯 My long-term goal is to integrate genomics and AI-driven predictive modeling in impactful research. 
+
+🙂 I am always eager and open to new opportunities and collaborations!
+
+
+---
 
 ### 🛠️ Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python)
@@ -50,6 +57,7 @@ My long-term goal is to integrate genomics and AI-driven predictive modeling in 
 ![Bioconductor](https://img.shields.io/badge/-Bioconductor-94BEE5)
 ![UCSC Genome Browser](https://img.shields.io/badge/-UCSC%20Genome%20Browser-0079D3)
 ![FASTQC](https://img.shields.io/badge/-FASTQC-007ACC)
+![MultiQC](https://img.shields.io/badge/-MultiQC-009688)
 ![Bowtie](https://img.shields.io/badge/-Bowtie-7F5AB6)
 ![HISAT2](https://img.shields.io/badge/-HISAT2-0052CC)
 ![STAR](https://img.shields.io/badge/-STAR-2C5EAD)
